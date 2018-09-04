@@ -92,8 +92,21 @@ https://github.com/jalused/Deconvnet-keras/blob/master/Deconvnet-keras.py
 
 * https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d (good animation of convolutions)
 
+* Upstream CNN weights: https://gist.github.com/CMCDragonkai/22f49a01b86b0b2500b0a38ee5270212
+
+* Explicit keras: https://gist.github.com/CMCDragonkai/8911419a13a2fd4e2893544ded87d8b1
+
+* Explicit tensorflow: https://gist.github.com/CMCDragonkai/eed035162d28eb51a5db2e1ae8a19903
+
+
 
 It is the 46th kernel. So we are showing each KERNEL's "generated image", from from a given layer.
 
 
 * https://files.daylen.com/visualizing-residual-networks.pdf - should see this eventually
+
+* https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
+
+* Types of convolutions for explaining this: https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+
+Deconvolutional visualisation eventually led to generative neural networks like: https://distill.pub/2016/deconv-checkerboard/
